@@ -1,1 +1,3 @@
 # Omnifood
+
+The Omnifood website project is a responsive website that showcases a fictional healthy food delivery service. Built using HTML, CSS, and JavaScript, the website features a modern and sleek design with beautiful imagery and engaging animations. Users can explore the different meal plans offered by Omnifood, place an order, and even leave feedback about their experience. The website is optimized for a seamless user experience, with fast load times and intuitive navigation. Overall, the Omnifood website project is a great example of how modern web technologies can be used to create a user-friendly and visually stunning online platform for a business.
